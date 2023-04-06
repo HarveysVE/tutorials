@@ -1,4 +1,8 @@
 # Hackintosh Ventura The New Way
+Thanks for visiting this post. Follow the video below.For better understanding on how everything works.<br>
+<br>
+Youtube Video : https://youtu.be/Dr5fTJPrHvA
+<br>
 Proxmox ISO Download : https://proxmox.com/downloads
 
 BalenaEtcher Download : https://www.balena.io/etcher
