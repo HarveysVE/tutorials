@@ -4,4 +4,6 @@ This document will include everything you need to get High Sierra Working the ne
 
 Download Links: <br />
 Opencore V19 ISO File : Download from above <br />
-High Sierra ISO Download (Torrent) : Download Magnet File From Above /\
+High Sierra ISO Download (Torrent) : Download Magnet File From Above /\ <br />
+<br />
+Thats all you need!
