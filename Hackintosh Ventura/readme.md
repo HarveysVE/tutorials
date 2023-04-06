@@ -16,7 +16,7 @@ Arguments used in installation:
 Intel CPUs:
 
 args: -device isa-applesmc,osk="ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" -smbios type=2 -device usb-kbd,bus=ehci.0,port=2 -cpu host,kvm=on,vendor=GenuineIntel,+kvm_pv_unhalt,+kvm_pv_eoi,+hypervisor,+invtsc
-<br / >
+<br>
 <br>
 <br> AMD CPUs:
 
