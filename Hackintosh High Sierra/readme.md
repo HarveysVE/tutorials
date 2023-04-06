@@ -7,4 +7,4 @@ Download Links: <br />
 Opencore V19 ISO File : Download from above <br />
 High Sierra ISO Download (Torrent) : Download Magnet File From Above /\ <br />
 <br />
-Thats all you need!
+Thats all you need! <br>
