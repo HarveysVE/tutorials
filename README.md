@@ -4,4 +4,5 @@ Thanks for visiting this github page!
 
 Links: <br />
 HSVE Website : https://hsve.org <br />
-Youtube Channel : https://youtube.com/harveysvirtualenvironment
+Youtube Channel : https://youtube.com/harveysvirtualenvironment <br>
+Discord Server : https://discord.gg/cWkxvtKaGx
