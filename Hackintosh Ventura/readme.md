@@ -7,7 +7,7 @@ Proxmox ISO Download : https://proxmox.com/downloads
 
 BalenaEtcher Download : https://www.balena.io/etcher
 
-OpenCore Bootloader ISO Download: https://github.com/thenickdude/KVM-Opencore/releases
+OpenCore Bootloader ISO Download: Download from above /\
 
 macOS ISO Download : https://archive.org/details/macos-collection
 
