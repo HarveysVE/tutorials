@@ -5,7 +5,7 @@ In this video Harvey shows you how to passthrough and install drivers for NVIDIA
 Commands / Links: <br>
 Opencore Legacy Patcher : https://github.com/dortania/OpenCore-Legacy-Patcher/releases
 
-Opencore Configurator : Download from above /\
+Opencore Configurator : [TBC]
 
 EFI Folder (Discord Link) : https://discord.com/invite/J8grw72qjt
 
