@@ -14,7 +14,7 @@ AMD CPUs:
 args: -device isa-applesmc,osk="ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" -smbios type=2 -device usb-kbd,bus=ehci.0,port=2 -global nec-usb-xhci.msi=off -cpu Penryn,kvm=on,vendor=GenuineIntel,+kvm_pv_unhalt,+kvm_pv_eoi,+hypervisor,+invtsc,+pcid,+ssse3,+sse4.2,+popcnt,+avx,+avx2,+aes,+fma,+fma4,+bmi1,+bmi2,+xsave,+xsaveopt,check
 ```
 Download Links: <br>
-Opencore V19 ISO File : Download from above <br />
-High Sierra ISO Download (Torrent) : Download Magnet File From Above /\ <br />
+Opencore V19 ISO File : Download ISO from above <br />
+High Sierra ISO Download (Torrent) : Download Torrent File From Above /\ <br />
 <br />
 Thats all you need! <br>
