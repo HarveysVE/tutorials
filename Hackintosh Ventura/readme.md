@@ -11,6 +11,8 @@ OpenCore Bootloader ISO Download: Download from above /\
 
 macOS ISO Download : https://archive.org/details/macos-collection
 
+Unsure if your GPU is supported? Check out my GPU Compatibility Checker : https://hsve.org/gpuguide/ <br>
+
 Arguments used in installation:
 
 Intel CPUs:
