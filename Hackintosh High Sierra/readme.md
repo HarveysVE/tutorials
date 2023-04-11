@@ -1,7 +1,7 @@
 # High Sierra The New Way (Not Finished!)
 Welcome to the new way first of all. 
 This document will include everything you need to get High Sierra Working the new way. Including GPU Passthrough.
-
+(This Guide Assumes You Already Have Enabled IOMMU In The BIOS And In Proxmox. If your Unsure On How To Enable IOMMU Join My Discord)
 Because High Sierra Natively Supports Most NVIDIA GPUs we don't need any special patches which is great! All you need to do is pass the gpu through. <br /> 
 You do need boot arguments to make macOS boot on proxmox which you can find below (Remember to use the ones relating to your CPU)<br> 
 <br>
