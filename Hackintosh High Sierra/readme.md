@@ -15,6 +15,7 @@ args: -device isa-applesmc,osk="ourhardworkbythesewordsguardedpleasedontsteal(c)
 ```
 Download Links: <br>
 Opencore V19 ISO File : Download ISO from above <br />
-High Sierra ISO Download (Torrent) : Download Torrent File From Above /\ <br />
+High Sierra ISO Download (Torrent) : Download Torrent File From Above /\ <br>
+OpenCore Configurator Download : Download From Above /\ <br>
 <br />
 Thats all you need! <br>
