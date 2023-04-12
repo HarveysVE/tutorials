@@ -1,4 +1,4 @@
-# High Sierra The New Way (Not Finished!)
+# High Sierra The New Way 
 Welcome to the new way first of all. 
 This document will include everything you need to get High Sierra Working the new way. Including GPU Passthrough.
 (This Guide Assumes You Already Have Enabled IOMMU In The BIOS And In Proxmox. If your Unsure On How To Enable IOMMU Join My Discord)
