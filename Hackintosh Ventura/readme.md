@@ -37,7 +37,7 @@ Then, enter the corresponding arguments according to your system:
 
 For Intel CPUs:
 ```
-GRUB_CMDLINE_LINUX_DEFAULT="quiet intel_iommu=on iommu=pt video=vesafb:off video=efifb:off" <br />
+GRUB_CMDLINE_LINUX_DEFAULT="quiet intel_iommu=on iommu=pt video=vesafb:off video=efifb:off"
 ```
 For AMD CPUs:
 ```
