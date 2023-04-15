@@ -54,7 +54,7 @@ update-grub
 ```
 Now reboot using the following command:
 ```
-reset
+reboot now
 ```
 Once the Proxmox Node has rebooted run the following command to see if IOMMU is enabled:
 ```
