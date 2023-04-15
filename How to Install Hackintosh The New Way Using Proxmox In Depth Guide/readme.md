@@ -6,6 +6,8 @@ Links / Commands : <br>
 Proxmox ISO Download : https://proxmox.com
 <br>
 Balena Etcher Download : https://balena.io/etcher
+Opencore ISO Download : Download from above /\
+macOS ISO Download (Download as torrent) : https://archive.org/details/macos-collection
 <br>
 <br>
 Expand Local Volume Commands : <br>
